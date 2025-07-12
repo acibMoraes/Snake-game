@@ -1,2 +1,2 @@
 # Snake-game
-Snake game using pygame, maybe in future will add AI snake
+Basic Snake game using pygame, maybe in future will add better textures
